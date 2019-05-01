@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Forrest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ContInt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.3s</Value>
+    </Setting>
+    <Setting Name="ContGain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">x1</Value>
+    </Setting>
+    <Setting Name="ContOffset" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="Gain70" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SpecInt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.3s</Value>
+    </Setting>
+    <Setting Name="SpecGain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">x1</Value>
+    </Setting>
+    <Setting Name="SpecOffset" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="NeedsUpgrading" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SpecOffset2" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
